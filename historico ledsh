@@ -1,0 +1,45 @@
+  805  pinout 
+  806  sudo raspi-config 
+  807  nano led.sh
+  808  ls
+  809  nano led.sh
+  810  chmod +x led.sh
+  811  ./led.sh
+  812  nano led.sh
+  813  ./led.sh
+  814  nano led.sh
+  815  ./led.sh
+  816  nano led.service
+  817  ls
+  818  sudo cp led.service /lib/systemd/system/
+  819  cd  /lib/systemd/system/
+  820  ls
+  821  cd 4487
+  822  cd
+  823  sudo systemctl start led
+  824  sudo systemctl enable led
+  825  systemctl status blink.service
+  826  raspi-config 
+  827  cd 
+  828  cd/
+  829  cd /
+  830  raspi-config 
+  831  cd usp
+  832  cd sel
+  833  raspi-config 
+  834  sudo raspi-config
+  835  cd 
+  836  cd 4487
+  837  ls
+  838  git clone https://github.com/VictorMRMP/SEL0337.git
+  839  ls
+  840  git clone https://github.com/VictorMRMP/SEL0337.git
+  841  ls
+  842  cd SEL0337
+  843  ls
+  844  python3 Camera_Numero.py 
+  845  nano Camera_Numero.py 
+  846  python3 Camera_Numero.py 
+  847  nano Camera_Numero.py 
+  848  python3 Camera_Numero.py 
+  849  history 
