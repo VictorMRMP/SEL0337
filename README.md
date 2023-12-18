@@ -1,7 +1,6 @@
 # SEL0337
 Victor Marcelo Riverete Monteiro Padial - 12547444
 João Vitor Abreu e Oliveira - 12624287
-Giovane Moretto - 12624252
 
 RFID
 
