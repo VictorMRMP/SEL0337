@@ -1,0 +1,22 @@
+commit 811f0272a7c9e30426126821e430454ac5ba9032 (HEAD -> main, origin/main, origin/HEAD)
+Author: VictorMRMP <83428029+VictorMRMP@users.noreply.github.com>
+Date:   Mon Dec 11 10:23:21 2023 -0300
+
+    Rename Camera_Numero to Camera_Numero.py
+
+commit 2631d486a17f8f47871af5d58e9060bf0776f9ef
+Merge: 01df7ca a801384
+Author: VictorMRMP <83428029+VictorMRMP@users.noreply.github.com>
+Date:   Mon Dec 11 10:20:23 2023 -0300
+
+    Merge pull request #1 from VictorMRMP/VictorMRMP-PyCam
+    
+    Create Camera_Numero
+
+commit a801384795ee8a0376ce8340ba625b47b03907bd
+Author: VictorMRMP <83428029+VictorMRMP@users.noreply.github.com>
+Date:   Mon Dec 11 10:20:00 2023 -0300
+
+    Create Camera_Numero
+
+commit 01df7ca5c7df9e53c9c914d928b2f3e5405cb61e
